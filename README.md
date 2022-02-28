@@ -28,4 +28,4 @@ Water cooler may also refer to a primitive device for keeping water cool
 - Float Ball - Mesh
 
 ### External parts of water cooler
-!plot[readme-data/external-parts-of-water-cooler.png]
+![plot](readme-data/external-parts-of-water-cooler.png)
